@@ -1,6 +1,6 @@
 import Image from "next/image";
-import WorflowImg01 from "@/public/images/api-testing.svg";
-import WorflowImg02 from "@/public/images/unit-testing.svg";
+import WorflowImg01 from "@/public/images/api-testing.webp";
+import WorflowImg02 from "@/public/images/unit-testing.webp";
 import WorflowImg03 from "@/public/images/integration-testing.svg";
 import Spotlight from "@/components/spotlight";
 import { ChevronRight } from "lucide-react";

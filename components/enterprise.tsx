@@ -4,10 +4,10 @@ import React, { useState, useRef, useEffect } from "react";
 import { Transition } from "@headlessui/react";
 import Image from "next/image";
 import CarouselIllustration from "@/public/images/assests/vscode.png";
-import UnitTesting from "@/public/images/assests/reports.png";
+import UnitTesting from "@/public/images/assests/reports.webp";
 import Illustration from "@/public/images/glow-top.svg";
 import Illustration1 from "@/public/images/glow-bottom.svg";
-import WorflowImg01 from "@/public/images/assests/gh-agent.png";
+import WorflowImg01 from "@/public/images/assests/gh-agent.webp";
 
 export default function Enterprise() {
   const [tab, setTab] = useState<number>(1);

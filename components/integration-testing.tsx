@@ -7,7 +7,7 @@ import { Transition } from "@headlessui/react";
 import RecordReplayImage from "@/public/images/record-replay.gif";
 import SmallTestimonialImg from "@/public/images/small-testimonial.jpg";
 import WorflowImg03 from "@/public/images/integration-testing.svg";
-import OSSCLIRecord from "@/public/images/pet-record.png";
+import OSSCLIRecord from "@/public/images/pet-record.webp";
 
 const tabs = [
   {

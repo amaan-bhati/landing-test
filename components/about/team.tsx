@@ -4,7 +4,7 @@ import Image from "next/image";
 import TeamImg01 from "@/public/images/team/team-mosaic-03.jpeg";
 import TeamImg02 from "@/public/images/team/team-mosaic-04.png";
 import TeamImg03 from "@/public/images/team/team-mosaic-16.png";
-import TeamImg04 from "@/public/images/team/team-mosaic-06.png";
+import TeamImg04 from "@/public/images/team/team-mosaic-06.webp";
 import TeamImg05 from "@/public/images/team/team-mosaic-07.png";
 import TeamImg06 from "@/public/images/team/team-mosaic-08.png";
 import TeamImg07 from "@/public/images/team/team-mosaic-09.jpeg";

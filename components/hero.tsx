@@ -2,7 +2,7 @@
 
 import { ChevronRight, RocketIcon } from "lucide-react";
 import ModalVideo from "@/components/modal-video";
-import VideoThumb from "@/public/images/demo-thumbnail.png";
+import VideoThumb from "@/public/images/demo-thumbnail.webp";
 import Link from "next/link";
 import { Assets } from "./icons";
 export default function Hero() {

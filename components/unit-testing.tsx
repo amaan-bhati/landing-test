@@ -6,10 +6,10 @@ import {Transition} from "@headlessui/react";
 import Particles from "./particles";
 import Illustration from "@/public/images/glow-top.svg";
 import "aos/dist/aos.css";
-import Dashboard from "@/public/images/assests/dashboard.png";
+import Dashboard from "@/public/images/assests/dashboard.webp";
 import Illustration1 from "@/public/images/glow-bottom.svg";
-import UnitTesting from "@/public/images/utg-vscode.png";
-import VSCode from "@/public/images/assests/gh-agent.png";
+import UnitTesting from "@/public/images/utg-vscode.webp";
+import VSCode from "@/public/images/assests/gh-agent.webp";
 import Reviews from "@/components/reviews";
 
 export default function UnitTest() {

@@ -3,9 +3,9 @@ import Particles from "./particles";
 import Highlighter, { HighlighterItem } from "./highlighter";
 
 import FeatureImg from "@/public/images/security_hero_c8c8ba9dd1.png";
-import FeatureImg01 from "@/public/images/assests/security.png";
-import FeatureImg02 from "@/public/images/assests/trusted-by.png";
-import FeatureImg03 from "@/public/images/assests/github-trending.png";
+import FeatureImg01 from "@/public/images/assests/security.webp";
+import FeatureImg02 from "@/public/images/assests/trusted-by.webp";
+import FeatureImg03 from "@/public/images/assests/github-trending.webp";
 
 export default function Security() {
   return (
